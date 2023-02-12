@@ -2,7 +2,7 @@ import about from './assets/img/about.svg'
 import blog from './assets/img/blog.svg'
 import port from './assets/img/port.svg'
 import project from './assets/img/project.svg'
-import Portfolio from './Portfolio'
+
 
 const Layout = () => {
   return (
